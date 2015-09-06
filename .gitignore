@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+app/app.iml
+MVP.iml
+mvp-mvp.iml
